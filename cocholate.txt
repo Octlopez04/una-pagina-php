@@ -1,0 +1,30 @@
+INSERT INTO mamut(Nombre,Precio,Descripcion,Imagen) VALUES ('SKULLCANDY Cascos Inalámbricos On-Ear Riff Wireless 2 de Take a Hike','$1,484','Los Riff Wireless 2 ofrecen lo que prometen con una comodidad increíble. Están diseñados para aguantar el ritmo de tu día a día durante años.','uno.jpg');
+INSERT INTO mamut(Nombre,Precio,Descripcion,Imagen) VALUES ('Stormlight Archive MM Boxed Set I, Books 1-3: The Way of Kings, Words of Radiance, Oathbringer','$763','Editorial ‏ : ‎ Tor Books (25 agosto 2020)
+Idioma ‏ : ‎ Inglés
+ISBN-10 ‏ : ‎ 1250776635
+ISBN-13 ‏ : ‎ 978-1250776631
+Dimensiones ‏ : ‎ 16.51 x 17.15 x 17.15 cm','dos.jpg');
+INSERT INTO mamut(Nombre,Precio,Descripcion,Imagen) VALUES ('Xiaomi Redmi Note 10 Pro 128GB 6GB RAM Onyx Gray','$1484','Encuentra en el Xiaomi Redmi Note 10 PRO el mayor rendimiento. ♦ Su memoria de 128GB Y 8GB RAM te permitirá ejecutar varias aplicaciones al mismo tiempo y si esto no es suficiente para ti, puedes expandirla con una SD 512gb, en slot independiente','tres.jpg');
+INSERT INTO mamut(Nombre,Precio,Descripcion,Imagen) VALUES ('Consola Xbox Series S + 3 años de garantía XTENDIA (Actívalo con tu número de orden) - Standard Edition','$6,490','Términos y Condiciones Garantías Exclusivamente para Consolas XBOX Series S con Garantía INCLUIDA de XTENDIA de 3 años adquiridas en www.amazon.com.mx.','cuatro.jpg');
+INSERT INTO mamut(Nombre,Precio,Descripcion,Imagen) VALUES ('Paquetes de baterías recargables para Xbox Series X|S/Xbox One, Ponkor 4x2600mAh baterías con estación de carga de alta velocidad para Xbox One S/Xbox One X/Xbox One Elite','$565','Paquetes de baterías recargables para Xbox Series X|S/Xbox One, baterías de 4 x 2600 mAh con estación de carga de alta velocidad para Xbox One S/Xbox One X/Xbox One Elite','cinco.jpg');
+INSERT INTO mamut(Nombre,Precio,Descripcion,Imagen) VALUES ('12 Pieces Solder Wick Solder Braid Wick Set Desoldering Braid Wick (2.0 mm, 2.5 mm, 3.0 mm)','$420','Features:
+Practical tool:
+The desoldering wicks are practical tool to correct mistakes on small PCB boards and will not make the damage, suitable for re-soldering and desoldering.','seis.jpg');
+INSERT INTO mamut(Nombre,Precio,Descripcion,Imagen) VALUES ('SanDisk SDSQUA4-1T00-GN6MA - Tarjeta de Memoria Ultra MicroSDXC UHS-I (1 TB, 1 TB, 1 TB, 120 MB/s, C10, U1, Full HD, A1, Tarjeta Micro SDSQUA4-1T00-GN6MA)','$3,959','La tarjeta SanDisk Ultra microSD UHS-I te da la libertad de disparar, guardar y compartir más que nunca.','siete.jpg');
+INSERT INTO mamut(Nombre,Precio,Descripcion,Imagen) VALUES ('TP-Link TL-WR840N Router WiFi, 2.4 GHz N 300Mbps, Multimodo, Router / Repetidor / WISP / Punto de Acceso, 2 antenas externas','$359','Especificaciones técnicas
+Marca	‎TP-Link
+Fabricante	‎TP-Link
+Series	‎N300
+Color	‎Grey, White','ocho.jpg');
+INSERT INTO mamut(Nombre,Precio,Descripcion,Imagen) VALUES ('Saga of Blue Eyes White Dragon Structure Deck','$949','Idioma:	‎Inglés
+Número de modelo	‎083717825630
+Se requiere ensamblar	‎No
+¿Se necesitan baterías?	‎No
+Incluye baterías	‎No
+Tipo(s) de material	‎Cartón','nueve.jpg');
+INSERT INTO mamut(Nombre,Precio,Descripcion,Imagen) VALUES ('Dell OptiPlex 7050 Micro, Intel Quad Core i5-6500T hasta 3.1GHz, 16G DDR4, 256G SSD, DP, HDMI, 4K Support, Windows 10 Pro 64-Multi-Language Support Inglés/Español/Francés(Reacondicionado)','$4,464','
+Especificaciones:
+Procesador: Intel Quad Core i5-6500T hasta 3.1GHz
+Gráficos: integrado
+Memoria: 16G DDR4
+Disco duro: SSD 256G.','diez.jpg');
